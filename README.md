@@ -1,0 +1,2 @@
+# clipper.sh
+Clipboard manager
